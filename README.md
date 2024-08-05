@@ -35,6 +35,20 @@ Bu çalışma, maaş tahmini yapmak ve veri analizi sürecini detaylı bir şeki
 - `tensorflow.keras` - Derin öğrenme modelleme için.
 - `tkinter` - GUI geliştirme için.
 
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
+
+## Proje Sonuçları
+Yıllık iş tecrübesinin maaş üzerindeki etkisi ve cinsiyetin maaş üzerindeki etkisi detaylı bir şekilde analiz edilmiştir.
+Modelleme adımlarında, veriler eğitim ve test setlerine ayrılmış, sonuçlar görselleştirilmiştir.
+Kullanıcı etkileşimli GUI uygulaması ile sonuçların daha erişilebilir ve etkileşimli hale getirilmesi sağlanmıştır.
+
+## Kullanım
+Projenin nasıl kullanılacağını ve çalıştırılacağını öğrenmek için README dosyasını inceleyebilirsiniz.
+
+## İletişim
+Sorularınız veya geri bildirimleriniz için bana e-posta veya LinkedIn üzerinden ulaşabilirsiniz.
+
 ## Veri Seti
 
 Aşağıdaki veri seti kullanılmıştır:
@@ -53,14 +67,5 @@ Data columns (total 5 columns):
 dtypes: int32(2), int64(3)
 memory usage: 12.6 KB
 
-## Proje Sonuçları
-Yıllık iş tecrübesinin maaş üzerindeki etkisi ve cinsiyetin maaş üzerindeki etkisi detaylı bir şekilde analiz edilmiştir.
-Modelleme adımlarında, veriler eğitim ve test setlerine ayrılmış, sonuçlar görselleştirilmiştir.
-Kullanıcı etkileşimli GUI uygulaması ile sonuçların daha erişilebilir ve etkileşimli hale getirilmesi sağlanmıştır.
 
-## Kullanım
-Projenin nasıl kullanılacağını ve çalıştırılacağını öğrenmek için README dosyasını inceleyebilirsiniz.
-
-## İletişim
-Sorularınız veya geri bildirimleriniz için bana e-posta veya LinkedIn üzerinden ulaşabilirsiniz.
 
